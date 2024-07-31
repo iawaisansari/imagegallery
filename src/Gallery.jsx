@@ -19,7 +19,7 @@ import lgShare from 'lightgallery/plugins/share';
 import lgRotate from 'lightgallery/plugins/rotate';
 
 const images = [
-    { src: "/1.jpg", alt: "Flag of India" },
+    { src: "/1.jpg", alt: "1" },
     { src: "/2.jpg", alt: "2" },
     { src: "/3.jpg", alt: "3" },
     { src: "/4.jpg", alt: "4", },
